@@ -41,3 +41,7 @@ Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para ap
 https://chat.whatsapp.com/IMUZdYpmvPr51tnicpsHoE
 
 # Vamo Codar! <3
+
+### Sobre Mim:
+- Tenho interesse na vaga de desenvolvedor front-end;
+- Me chamo Samuel Araújo sou estudante de Sistemas de Informação do periodo 2020.1, sou de Campo Grande-RN   
