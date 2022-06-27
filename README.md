@@ -1,8 +1,5 @@
 # Processo seletivo para desenvolvedores da EJ Turing Tecnologia 2022
 
-Bem vindos ao processo seletivo para desenvolvedores da Turing Tecnologia, primeira empresa Jr de T.I da UFERSA, gostamos de desafios e acreditamos que  o melhor currículo para um programador é os seus projetos realizados, pensando dessa forma, a inscrição do nosso processo seletivo se dará aqui neste repositório.
-
-Para se tornar candidato a vaga de Desenvolvedor, siga com atenção os passos abaixo:.
 
  - Faça um Fork neste repositório 
  - Adicione uma pasta com seu nome
@@ -15,16 +12,6 @@ Para se tornar candidato a vaga de Desenvolvedor, siga com atenção os passos a
  
 ## Sobre o projeto para o teste :
 
-### TESTE BACKEND
-
-Desenvolver uma API REST com as principais funcionalidades CRUD (To Do, Agenda
-Telefônica), utilizando (preferencialmente e não obrigatório) as seguintes tecnologias:
-
-- Java 8 ou superior
-- PostgreSQL
-- Springboot
-- JPA
-- Documentar a API utilizando o OpenAPI ou Swagger (opcional)
 
 ### TESTE FRONTEND
 
@@ -35,13 +22,20 @@ experiências... utilizando preferencialmente as seguintes tecnologias:
 - CSS
 - Javascript(Desejável)
  
-# Observações
-Se ainda não souber utilizar o Git e o Github, aproveite a oportunidade para aprender. São ferramentas essenciais para o mercado de trabalho e você terá que utiliza-las de um jeito ou de outro no futuro.
-### Grupo no Whatsapp para duvidas
-https://chat.whatsapp.com/IMUZdYpmvPr51tnicpsHoE
 
-# Vamo Codar! <3
 
-### Sobre Mim:
+
+### Sobre Mim
+
 - Tenho interesse na vaga de desenvolvedor front-end;
-- Me chamo Samuel Araújo sou estudante de Sistemas de Informação do periodo 2020.1, sou de Campo Grande-RN   
+- Me chamo Samuel Araújo sou estudante de Sistemas de Informação do periodo 2020.1, sou de Campo Grande-RN.
+
+### Como fiz o prjeto 
+Utilizei dos conhecimentos que adiquiri em css e html, infelizmente ainda não tenho um nivel muito satisfatorio em javascript por isso decidi não utiliza-lo.
+
+### Rodar em local host
+Não consegui rodar em localhost, mas so rodar o código no VS code que da pra ver como está.
+
+
+
+
