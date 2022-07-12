@@ -30,7 +30,7 @@ experiências... utilizando preferencialmente as seguintes tecnologias:
 - Tenho interesse na vaga de desenvolvedor front-end;
 - Me chamo Samuel Araújo sou estudante de Sistemas de Informação do periodo 2020.1, sou de Campo Grande-RN.
 
-### Como fiz o prjeto 
+### Como fiz o projeto 
 Utilizei dos conhecimentos que adiquiri em css e html, infelizmente ainda não tenho um nivel muito satisfatorio em javascript por isso decidi não utiliza-lo.
 
 ### Rodar em local host
